@@ -1,0 +1,36 @@
+_repo: La-Domination_63905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Noailles, Anna de
+    aliases:
+    - Brancovan Noailles, Anna Elisabeth de, comtesse
+    - Noailles, comtesse de
+    - Brancovan, Anna de
+    - Noailles, Mathieu de, comtesse
+    - De Noailles, Anna
+    - De Brancovan Noailles, Anna Elisabeth, comtesse
+    - De Noailles, Ana
+    - Noailles, Ana-Elisabeta
+    birthdate: 1876
+    deathdate: 1933
+    gutenberg_agent_id: '25065'
+    url: http://www.gutenberg.org/2009/agents/25065
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anna_de_Noailles
+    - https://fr.wikipedia.org/wiki/Anna_de_Noailles
+description: ''
+gutenberg_issued: '2020-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63905'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+title: La Domination
+url: http://www.gutenberg.org/ebooks/63905
